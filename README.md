@@ -27,3 +27,27 @@
 - [Book3](https://udlbook.github.io/udlbook/)
 
 # SESSION TWO
+
+### Advanced Computer Vision
+
+#### Day 1 - [Intro to CV](https://docs.google.com/presentation/d/1-eBvg-jaY49qnAzZGF0YIAQTP0b9kr6zYEi2jaTWKTU/edit?usp=sharing) and [Diffusion Models](https://docs.google.com/presentation/d/1yYPugrsdYUut1hcbN96eXrzerQguvg2CTnJaPIk_lug/edit?usp=sharing)
+**Collab Links :**
+- [Bsic Diffusion](https://colab.research.google.com/drive/1BPuh2eb30VSFHSnxPMeiFFw6lvOk62ah?usp=drive_link)
+- [Stable Diffusion](https://colab.research.google.com/drive/10R6qom9ioXvKJKYBs7L7bqQJOi4cj12r?usp=drive_link)
+- [Image Inpainting](https://colab.research.google.com/drive/1N6DvxuePPHwlLuqIIKZ_a_kL-b8UNokX?usp=drive_link)
+  
+#### Day 2 - NeRF and [GS](https://docs.google.com/presentation/d/1OKtE_RMAl_JY3t2DGcpUf0cb-tvRH6W0YzRLrIj501w/edit?usp=sharing)
+**Collab Links :**
+- [Neural Radiance Fields](https://colab.research.google.com/drive/1NK5G3FdceATOeuFnrBq7n61nICxq065_?usp=drive_link)
+- [Gaussian Splatting](https://colab.research.google.com/drive/1vBW0WFsw8WrFIQQ3rSlTZ2s6xwOoIP70?usp=drive_link)
+  
+#### Day 3 - Advanced Topics
+[Detection Models](https://docs.google.com/presentation/d/1h6a7pGW3EGEgV7cZockN61rPUf_4mBqdXhbVpTPyPnE/edit?usp=sharing), [CVAT](https://www.cvat.ai/), Point Cloud, and CLIP 
+
+**Collab Links :**
+- [Detection Models](https://colab.research.google.com/drive/1JP_TNhbyQ3Fwl0_RFFrZuHFI-rbE7nol?usp=drive_link)
+- [CLIP - Contrastive Language-Image Pretraining](https://colab.research.google.com/drive/1N6DvxuePPHwlLuqIIKZ_a_kL-b8UNokX?usp=drive_link)
+- [Point Cloud Processing](https://colab.research.google.com/drive/1Du1RAWlkr3vVDJSK8RQWZBqbs6tAFC8T?usp=drive_link)
+
+#### Resources
+- [How to do Research](https://docs.google.com/presentation/d/1SxutfiiwptrM3IT63P-L9Jnfz5562seVi_KLCEZ4pkg/edit?usp=drive_link)
