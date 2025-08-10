@@ -1,6 +1,6 @@
 # SESSION ONE
 
-### Basics of AI ML Using PyTorch
+## Basics of AI ML Using PyTorch
 **1. [Deep Learning](https://www.canva.com/design/DAGY09XE-cg/S-0E4FFgR7aG5O-ZoG75fA/view?utm_content=DAGY09XE-cg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h14e1402c1c)**
 - Collab : [PyTorch and Deep Learning](https://colab.research.google.com/drive/1OTbCT9DEnEll2XrqYGGkKLZ_nI827SP_?usp=drive_link)
   
@@ -11,7 +11,7 @@
 - [ResNet](https://colab.research.google.com/drive/1gn8O5sC-okb23-A58f0Ml90Cctae1UjC?usp=drive_link)
 - [Unet](https://colab.research.google.com/drive/1qFcravXEAf1ZXzfUh3zeVrwoETRAs3am?usp=drive_link)
 
-### Additional resources
+#### Additional resources
 - [PyTorch Basics](https://www.learnpytorch.io/)
 - [CNN visualizer](https://poloclub.github.io/cnn-explainer/)
 - [Neural Network visualizer](https://playground.tensorflow.org/)
@@ -21,27 +21,27 @@
 - [Andrej Karpathy’s zero to hero series](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 - [Neural Networks from scratch](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
-### Books 
+#### Books 
 - [Book1](https://nnfs.io/)
 - [Book2](https://www.deeplearningbook.org/)
 - [Book3](https://udlbook.github.io/udlbook/)
 
 # SESSION TWO
 
-### Advanced Computer Vision
+## Advanced Computer Vision
 
-#### Day 1 - [Intro to CV](https://docs.google.com/presentation/d/1-eBvg-jaY49qnAzZGF0YIAQTP0b9kr6zYEi2jaTWKTU/edit?usp=sharing) and [Diffusion Models](https://docs.google.com/presentation/d/1yYPugrsdYUut1hcbN96eXrzerQguvg2CTnJaPIk_lug/edit?usp=sharing)
+### Day 1 - [Intro to CV](https://docs.google.com/presentation/d/1-eBvg-jaY49qnAzZGF0YIAQTP0b9kr6zYEi2jaTWKTU/edit?usp=sharing) and [Diffusion Models](https://docs.google.com/presentation/d/1yYPugrsdYUut1hcbN96eXrzerQguvg2CTnJaPIk_lug/edit?usp=sharing)
 **Collab Links :**
 - [Bsic Diffusion](https://colab.research.google.com/drive/1BPuh2eb30VSFHSnxPMeiFFw6lvOk62ah?usp=drive_link)
 - [Stable Diffusion](https://colab.research.google.com/drive/10R6qom9ioXvKJKYBs7L7bqQJOi4cj12r?usp=drive_link)
 - [Image Inpainting](https://colab.research.google.com/drive/1N6DvxuePPHwlLuqIIKZ_a_kL-b8UNokX?usp=drive_link)
   
-#### Day 2 - NeRF and [GS](https://docs.google.com/presentation/d/1OKtE_RMAl_JY3t2DGcpUf0cb-tvRH6W0YzRLrIj501w/edit?usp=sharing)
+### Day 2 - NeRF and [GS](https://docs.google.com/presentation/d/1OKtE_RMAl_JY3t2DGcpUf0cb-tvRH6W0YzRLrIj501w/edit?usp=sharing)
 **Collab Links :**
 - [Neural Radiance Fields](https://colab.research.google.com/drive/1NK5G3FdceATOeuFnrBq7n61nICxq065_?usp=drive_link)
 - [Gaussian Splatting](https://colab.research.google.com/drive/1vBW0WFsw8WrFIQQ3rSlTZ2s6xwOoIP70?usp=drive_link)
   
-#### Day 3 - Advanced Topics
+### Day 3 - Advanced Topics
 [Detection Models](https://docs.google.com/presentation/d/1h6a7pGW3EGEgV7cZockN61rPUf_4mBqdXhbVpTPyPnE/edit?usp=sharing), [CVAT](https://www.cvat.ai/), Point Cloud, and CLIP 
 
 **Collab Links :**
